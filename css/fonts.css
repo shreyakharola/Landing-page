@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'elegant-theme-line';
+    src: url(../fonts/elegant-theme-line.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'flexslider';
+    src: url(../fonts/flexslider-icon.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'glyphicons';
+    src: url(../fonts/glyphicons-halflings-regular.woff) format('woff');
+}
