@@ -193,7 +193,7 @@ a {
     .footer-col {
         display: flex;
         flex-direction: column;
-        padding-bottom: 10% !important;
+        padding-bottom: 5% !important;
         justify-content: center;
         align-items: center;
         text-align: center;
