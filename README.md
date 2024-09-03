@@ -1,1 +1,1 @@
-LIVE Link of the site: https://shreyakharola.github.io/Landing-page/html/1st-section.html
+LIVE Link of the site: https://shreyakharola.github.io/Landing-page/html/home_page.html
