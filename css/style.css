@@ -186,14 +186,14 @@ a {
     .footer-1 {
         display: block !important;
         grid-template-columns: repeat(3, 1fr);
-        padding: 4% !important;
+        padding: 5% !important;
         background-color: #3A3E63;
     }
 
     .footer-col {
         display: flex;
         flex-direction: column;
-        padding-bottom: 10% !important;
+        padding-bottom: 5% !important;
         justify-content: center;
         align-items: center;
         text-align: center;
